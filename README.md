@@ -1,5 +1,4 @@
 # Disaster-Tweets-Classification-Project
-# Disaster Tweets Classification Project
 
 This project was developed for the TM340 Natural Language Processing assignment. The goal of the project is to classify tweets as either:
 
